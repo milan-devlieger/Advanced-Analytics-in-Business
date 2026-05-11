@@ -4,4 +4,8 @@
 .venv/
 
 # Ignore images in Taak 2 data folder
-Taak 2/data/images/
+Assignment 2/data/images/
+
+# Ignore Taak 3 sqlite DBs
+Assignment 3/*.sqlite
+Assignment 3/**/*.sqlite"
