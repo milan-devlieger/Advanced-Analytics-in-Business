@@ -1,3 +1,7 @@
 # Project gitignore
+
+# Virtual environment
+.venv/
+
 # Ignore images in Taak 2 data folder
 Taak 2/data/images/
