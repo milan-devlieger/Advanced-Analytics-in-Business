@@ -1,0 +1,8 @@
+{
+  "threshold": 0.5,
+  "test_loss": 0.6889977935183293,
+  "test_micro_f1": 0.18827335927593897,
+  "test_macro_f1": 0.2020902980966193,
+  "avg_true_labels_per_example": 1.0411937236785889,
+  "avg_predicted_labels_per_example": 8.572509765625
+}

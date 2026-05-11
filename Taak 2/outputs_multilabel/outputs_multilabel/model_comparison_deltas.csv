@@ -1,0 +1,2 @@
+model,threshold,test_loss,test_micro_f1,test_macro_f1,avg_true_labels_per_example,avg_predicted_labels_per_example
+Verschil (EfficientNet - Baseline),0.42,0.6022570710840622,0.03869668947349306,0.19121778022449096,0.0,6.932745099067688

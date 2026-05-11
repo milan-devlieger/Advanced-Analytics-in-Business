@@ -1,0 +1,16 @@
+{
+  "baseline_threshold": 0.08,
+  "effnet_threshold": 0.5,
+  "baseline_test_micro_f1": 0.1495766698024459,
+  "effnet_test_micro_f1": 0.18827335927593897,
+  "baseline_test_macro_f1": 0.010872517872128343,
+  "effnet_test_macro_f1": 0.2020902980966193,
+  "micro_f1_improvement": 0.03869668947349306,
+  "macro_f1_improvement": 0.19121778022449096,
+  "baseline_avg_predicted_labels": 1.639764666557312,
+  "effnet_avg_predicted_labels": 8.572509765625,
+  "predicted_labels_difference": 6.932745099067688,
+  "n_themes_effnet_better": 55,
+  "n_themes_equal": 0,
+  "n_themes_effnet_worse": 0
+}

@@ -7,6 +7,12 @@ matplotlib==3.10.9
 lightgbm>=4.0
 jupyter>=1.0
 
+# Taak 2 - Image Classification
+Pillow>=10.0.0
+seaborn>=0.13.0
+torch>=2.2.0
+torchvision>=0.17.0
+
 # Jupyter & IPython
 ipykernel==7.2.0
 ipython==9.13.0
