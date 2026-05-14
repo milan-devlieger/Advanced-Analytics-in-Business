@@ -20,6 +20,10 @@ python -m pip install --upgrade pip setuptools wheel
 pip install -r requirements.txt
 ```
 
-## Taak 2 Data
+## Assignment 2 Data
 
-The image files for Taak 2 are not included in the repository. Download and import them yourself, then place the images folder in `Taak 2/data/` so the path becomes `Taak 2/data/images/`.
+The image files for assignment 2 are not included in the repository. Download and import them yourself, then place the images folder in `Assignment 2/data/` so the path becomes `Assigment 2/data/images/`.
+
+## Assignment 3 .sqlite File
+
+The .sqlite file for assigment 3 is not included in the repository. Download and import it yourself, then place the .sqlite file in `Assigment 3/data/`
