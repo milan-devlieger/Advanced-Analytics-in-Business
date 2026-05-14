@@ -1,0 +1,25 @@
+Id,Label,node_type,entity_type
+Harvard University,Harvard University,core_organization,
+MC2 modeling agency,MC2 modeling agency,core_organization,
+Palm Beach Police Department,Palm Beach Police Department,core_organization,law enforcement
+U.S. Attorney's Office for the Southern District of Florida,U.S. Attorney's Office for the Southern District of Florida,core_organization,government_official
+Jeffrey Epstein,Jeffrey Epstein,connected_entity,victim
+Alan M. Dershowitz,Alan M. Dershowitz,connected_entity,legal counsel
+Jean-Luc Didier Henri-Rene Brunel,Jean-Luc Didier Henri-Rene Brunel,connected_entity,business associate
+Jean Luc Brunel,Jean Luc Brunel,connected_entity,business associate
+Jeffrey Epstein's residence,Jeffrey Epstein's residence,connected_entity,
+Saige Gonzales,Saige Gonzales,connected_entity,victim
+Alfredo Rodriguez,Alfredo Rodriguez,connected_entity,staff member
+FBI,FBI,connected_entity,law enforcement
+Federal Bureau of Investigation,Federal Bureau of Investigation,connected_entity,law_enforcement
+Haley Robson,Haley Robson,connected_entity,trafficker_accomplice
+Detective Joe Recarey,Detective Joe Recarey,connected_entity,law enforcement
+Barry E. Krischer,Barry E. Krischer,connected_entity,government_official
+Bradley James Edwards,Bradley James Edwards,connected_entity,lawyer
+Ghislaine Maxwell,Ghislaine Maxwell,connected_entity,defendant
+Jeffrey Epstein case,Jeffrey Epstein case,connected_entity,
+Jeffrey Epstein victims' rights case,Jeffrey Epstein victims' rights case,connected_entity,
+Jay P. Lefkowitz,Jay P. Lefkowitz,connected_entity,lawyer
+Brad Edwards,Brad Edwards,connected_entity,lawyer
+Bradley Edwards,Bradley Edwards,connected_entity,legal_counsel
+Jeffrey Epstein victims,Jeffrey Epstein victims,connected_entity,
