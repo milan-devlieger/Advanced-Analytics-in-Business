@@ -26,4 +26,4 @@ The image files for assignment 2 are not included in the repository. Download an
 
 ## Assignment 3 .sqlite File
 
-The .sqlite file for assigment 3 is not included in the repository. Download and import it yourself, then place the .sqlite file in `Assigment 3/data/`
+The .sqlite file for assigment 3 is not included in the repository. Download and import it yourself, then place the .sqlite file in `Assigment 3/`
