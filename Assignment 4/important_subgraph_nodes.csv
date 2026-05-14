@@ -1,22 +1,22 @@
 Id,Label,node_type,entity_type,weighted_degree,degree_centrality,betweenness_centrality,closeness_centrality,eigenvector_centrality,community
-Harvard University,Harvard University,core_organization,nan,31.0,0.08695652173913043,0.30039525691699603,0.3709677419354839,0.13665600135135533,2
+Harvard University,Harvard University,core_organization,nan,31.0,0.08695652173913043,0.30039525691699603,0.3709677419354839,0.13665600135135533,0
 MC2 modeling agency,MC2 modeling agency,core_organization,nan,36.0,0.13043478260869565,0.16996047430830039,0.38333333333333336,0.08509117542247965,1
-Palm Beach Police Department,Palm Beach Police Department,core_organization,law enforcement,180.0,0.5652173913043478,0.6403162055335968,0.575,0.6500166891488753,2
+Palm Beach Police Department,Palm Beach Police Department,core_organization,law enforcement,180.0,0.5652173913043478,0.6403162055335968,0.575,0.6500166891488753,0
 U.S. Attorney's Office for the Southern District of Florida,U.S. Attorney's Office for the Southern District of Florida,core_organization,government_official,75.0,0.4782608695652174,0.683794466403162,0.5227272727272727,0.2270619670192984,0
-Jeffrey Epstein,Jeffrey Epstein,connected_entity,victim,232.0,0.17391304347826086,0.23715415019762845,0.5476190476190477,0.7034532563588304,2
-Alan M. Dershowitz,Alan M. Dershowitz,connected_entity,legal counsel,12.0,0.13043478260869565,0.3557312252964427,0.4791666666666667,0.04236576107524156,2
+Jeffrey Epstein,Jeffrey Epstein,connected_entity,victim,232.0,0.17391304347826086,0.23715415019762845,0.5476190476190477,0.7034532563588304,0
+Alan M. Dershowitz,Alan M. Dershowitz,connected_entity,legal counsel,12.0,0.13043478260869565,0.3557312252964427,0.4791666666666667,0.04236576107524156,0
 Jean-Luc Didier Henri-Rene Brunel,Jean-Luc Didier Henri-Rene Brunel,connected_entity,business associate,10.0,0.043478260869565216,0.0,0.2804878048780488,0.005676621818746318,1
 Jean Luc Brunel,Jean Luc Brunel,connected_entity,business associate,8.0,0.043478260869565216,0.0,0.2804878048780488,0.004541297454997054,1
-Jeffrey Epstein's residence,Jeffrey Epstein's residence,connected_entity,nan,7.0,0.043478260869565216,0.0,0.3709677419354839,0.030354842688397714,2
-Saige Gonzales,Saige Gonzales,connected_entity,victim,6.0,0.043478260869565216,0.0,0.3709677419354839,0.02601843659005518,2
-Alfredo Rodriguez,Alfredo Rodriguez,connected_entity,staff member,4.0,0.043478260869565216,0.0,0.3709677419354839,0.01734562439337012,2
+Jeffrey Epstein's residence,Jeffrey Epstein's residence,connected_entity,nan,7.0,0.043478260869565216,0.0,0.3709677419354839,0.030354842688397714,0
+Saige Gonzales,Saige Gonzales,connected_entity,victim,6.0,0.043478260869565216,0.0,0.3709677419354839,0.02601843659005518,0
+Alfredo Rodriguez,Alfredo Rodriguez,connected_entity,staff member,4.0,0.043478260869565216,0.0,0.3709677419354839,0.01734562439337012,0
 FBI,FBI,connected_entity,law enforcement,7.0,0.08695652173913043,0.0,0.46,0.021889967246043966,0
 Federal Bureau of Investigation,Federal Bureau of Investigation,connected_entity,law_enforcement,2.0,0.08695652173913043,0.4743083003952569,0.46,0.005851187049233811,0
-Haley Robson,Haley Robson,connected_entity,trafficker_accomplice,4.0,0.043478260869565216,0.0,0.3709677419354839,0.01734562439337012,2
-Detective Joe Recarey,Detective Joe Recarey,connected_entity,law enforcement,3.0,0.043478260869565216,0.0,0.3709677419354839,0.01300921829502759,2
-Barry E. Krischer,Barry E. Krischer,connected_entity,government_official,2.0,0.043478260869565216,0.0,0.3709677419354839,0.00867281219668506,2
+Haley Robson,Haley Robson,connected_entity,trafficker_accomplice,4.0,0.043478260869565216,0.0,0.3709677419354839,0.01734562439337012,0
+Detective Joe Recarey,Detective Joe Recarey,connected_entity,law enforcement,3.0,0.043478260869565216,0.0,0.3709677419354839,0.01300921829502759,0
+Barry E. Krischer,Barry E. Krischer,connected_entity,government_official,2.0,0.043478260869565216,0.0,0.3709677419354839,0.00867281219668506,0
 Bradley James Edwards,Bradley James Edwards,connected_entity,lawyer,6.0,0.08695652173913043,0.0,0.46,0.011910310852798938,0
-Ghislaine Maxwell,Ghislaine Maxwell,connected_entity,defendant,1.0,0.043478260869565216,0.0,0.3709677419354839,0.00433640609834253,2
+Ghislaine Maxwell,Ghislaine Maxwell,connected_entity,defendant,1.0,0.043478260869565216,0.0,0.3709677419354839,0.00433640609834253,0
 Jeffrey Epstein case,Jeffrey Epstein case,connected_entity,nan,5.0,0.08695652173913043,0.0,0.46,0.010395529901907655,0
 Jeffrey Epstein victims' rights case,Jeffrey Epstein victims' rights case,connected_entity,nan,4.0,0.043478260869565216,0.0,0.3484848484848485,0.0060591238035651255,0
 Jay P. Lefkowitz,Jay P. Lefkowitz,connected_entity,lawyer,3.0,0.043478260869565216,0.0,0.3484848484848485,0.004544342852673844,0
