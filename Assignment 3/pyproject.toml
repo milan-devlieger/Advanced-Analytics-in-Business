@@ -1,11 +1,11 @@
 [project]
 name = "raglooker"
 version = "0.1.0"
-description = "Add your description here"
+description = "Steam game recommender system with hybrid retrieval and LLM answers"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "chromadb>=1.5.7",
+    "chromadb>=1.5.8",
     "flask>=3.1.3",
     "ollama>=0.6.0",
     "rank-bm25>=0.2.2",

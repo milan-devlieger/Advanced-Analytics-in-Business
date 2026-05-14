@@ -1,0 +1,20 @@
+
+MODEL COMPARISON
+
+We compared a baseline CNN trained from scratch with a pretrained EfficientNet-B0 model in phase 1 transfer learning mode.
+
+Baseline CNN:
+- Validation accuracy: 0.6626
+- Validation macro-F1: 0.4632
+- Test accuracy: 0.6654
+- Test macro-F1: 0.4941
+
+EfficientNet-B0 Phase 1:
+- Validation accuracy: 0.6431
+- Validation macro-F1: 0.4693
+- Test accuracy: 0.6348
+- Test macro-F1: 0.4473
+
+The pretrained EfficientNet model achieved almost the same test accuracy as the baseline CNN, but clearly improved macro-F1.
+This indicates that transfer learning mainly improved class-balanced performance rather than raw overall accuracy.
+In other words, the pretrained model handled the multiclass structure more effectively across the different Lego categories.
